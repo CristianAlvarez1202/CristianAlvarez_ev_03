@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
     private EditText et1, et2;
     private ProgressBar pb;
     private Button btn;
-    private String[] nombres2 = {"Farenheit","Revival","El Alquimista", "El Poder","Despertar"};
-    private int[] valores2 = {7000,22000,45000,88000,156000};
+    private String[] nombres2 = {"Farenheit","Revival","El Alquimista","El Poder","Despertar"};
+    private int[] valores2 = {7000,22000,4500,88000,156000};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
